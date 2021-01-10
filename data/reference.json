@@ -1,0 +1,5 @@
+chrom_lengths=[];
+edgeMappingInfo=[];
+chromGaps=[];
+chromAligns=[];
+chromosomes=[];
